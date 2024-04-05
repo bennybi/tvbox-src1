@@ -2,11 +2,13 @@
 
 **重要❗重要 ❗重要 ❗**
 严禁将此接口内置tvbox壳在网络平台售卖，此接口仅供本人自用
+
 ----------
+
 由于工作原因更新将变缓
 ----------
 
-1.此仓库为一木自用的缝合源，接口均来自网络
+1.此仓库为Ben自用的缝合源，接口均来自网络
 
 2.如果使用本仓库请复刻，请勿传播
 
@@ -18,13 +20,11 @@
 5.其他文件推荐使用GitHub文件加速
 [网站](https://gh-proxy.com/)
 
-
 ## 🐳在线接口
 
 [多线路接口](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json)
 
 [多线路备用接口](https://ghcy.eu.org/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json)
-
 
 ## 🐊直播源推荐
 
@@ -41,6 +41,7 @@
 [测试网站2](http://test-ipv6.com/index.html.zh_CN)
 
 ### 推荐空壳版本
+
 密码666
 
 1.![box](https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/8e5324489582b940beb2bc9096f58f9131806c5a/一木源/tu/IMG_20230708_021944.jpg) 🥂🥂🥂横版平板电视推荐 - [影视仓](https://qiqi2020.lanzoub.com/b09svqv1c)
